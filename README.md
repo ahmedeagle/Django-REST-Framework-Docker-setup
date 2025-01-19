@@ -72,8 +72,8 @@ docker-compose exec web python manage.py createsuperuser
 Admin Panel: http://localhost:8000/admin
 
 
+### 3. production Setup
 
-3. Production Setup
   ---> Create a production .env file:
   
   SECRET_KEY=your_production_secret_key
